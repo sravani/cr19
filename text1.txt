@@ -1,4 +1,7 @@
 haii1
 byee
+<<<<<<< HEAD
 byee2
 byee3
+=======
+>>>>>>> parent of 1ae0300... text1.txt
